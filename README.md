@@ -7,20 +7,19 @@ Though effective in its core functions, the editor does have some known issues, 
 
 I've not revisited this code post my class, but there are plans to refactor it for enhancements and bug fixes in the future.
 
-Getting Started:
-
+# Getting Started:
 Change to the project's directory.
 Use the make command in your terminal to compile the source files.
 To initiate the editor, enter ./ECTextEditor filename.
 Employ any existing .txt file from the directory.
 Should the provided filename not be found, a new file bearing the mentioned name will be generated.
-Key Functionalities:
 
-Ctrl-q: Save and exit
-Ctrl-s: Save changes
-Arrow keys: Cursor movement
-Enter/return: Initiate a new paragraph
-Backspace: Erase content or merge with preceding line
-Ctrl-z: Revert action
-Ctrl-y: Reapply action
-Alphabet keys: Input text
+# Key Functionalities:
+- Ctrl-q: Save and exit
+- Ctrl-s: Save changes
+- Arrow keys: Cursor movement
+- Enter/return: Initiate a new paragraph
+- Backspace: Erase content or merge with preceding line
+- Ctrl-z: Revert action
+- Ctrl-y: Reapply action
+- Alphabet keys: Input text
